@@ -2,8 +2,7 @@ Curriculum vitae
 ===================
 ### Not finished yet
 
-This will be a simple but nice website based on **Reactjs.** Unfortunately, I had some problems with error messages from npm. I could solve some things, I still have to solve other things 😆
-
+This will be a simple but nice website based on **Reactjs.**
  📦 **npm packages in this project:**
  - react-player
  - styled-components
